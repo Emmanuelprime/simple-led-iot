@@ -1,4 +1,4 @@
-# ESP32 WebServer Documentation
+# ESP32 LED Playground
 This document provides instructions on setting up and using an ESP32 WebServer to control LEDs using different modes.
 # Introduction
 The ESP32 WebServer allows you to control LEDs connected to GPIO pins through a web interface. This project demonstrates how to create different endpoints to perform actions such as turning LEDs off, blinking, and alternating the states of LEDs.
